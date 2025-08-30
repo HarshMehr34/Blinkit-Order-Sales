@@ -3,7 +3,7 @@ Created The Data Driven Dynamic Project on Blinkit Sales Dataset. Have tried to 
 Existing Report Visuals. 
 ![Blinkit Sales](https://github.com/HarshMehr34/Blinkit-Order-Sales/blob/dde7acadfe74bf8215b420385bdd1524c279a6f6/Screenshot%202025-08-18%20073423.png)
 
-## Along with them, have given solutions to a lot of Business Problems that can be given from the Data Set and represented in them in Visual.These are some of those Business Problems:
+## From Business point of view, have given solutions for Business Problems that I could extract from Data Set and presented them in the report.Business Problems:
 
 Which Product Category have produced the most sales quantity?
 
