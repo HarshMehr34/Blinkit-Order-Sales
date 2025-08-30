@@ -1,10 +1,9 @@
 ## Blinkit Order Sales
 Created The Data Driven Dynamic Project on Blinkit Sales Dataset. Have tried to make it user friendly with Slicers and their Effects in the 
 Existing Report Visuals. 
-![Blinkit Sales]https://github.com/HarshMehr34/Blinkit-Order-Sales/blob/dde7acadfe74bf8215b420385bdd1524c279a6f6/Screenshot%202025-08-18%20073423.png
+![Blinkit Sales](https://github.com/HarshMehr34/Blinkit-Order-Sales/blob/dde7acadfe74bf8215b420385bdd1524c279a6f6/Screenshot%202025-08-18%20073423.png)
 
-## Along with them, have given solutions to a lot of Business Problems that can be given from the Data Set and represented in them in Visual.
-## These are some of those Business Problems:
+## Along with them, have given solutions to a lot of Business Problems that can be given from the Data Set and represented in them in Visual.These are some of those Business Problems:
 
 Which Product Category have produced the most sales quantity?
 
